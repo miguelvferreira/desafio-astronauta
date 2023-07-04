@@ -1,0 +1,14 @@
+body{
+    height: 98vh;
+    background-repeat: no-repeat;
+    background-image: url(/images/espaco.jpg);
+    background-position: 100% 100%;
+    background-size: contain;
+}
+div{
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(/images/astronauta.png);
+    background-size: auto;
+}
